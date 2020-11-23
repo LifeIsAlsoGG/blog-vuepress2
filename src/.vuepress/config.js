@@ -54,7 +54,7 @@ module.exports = config({
       },
     ],
 
-    sidebar: {
+/*    sidebar: {
       "/": [
         "",
         "home",
@@ -66,7 +66,7 @@ module.exports = config({
           children: ["", "page", "markdown", "disable", "encrypt"],
         },
       ],
-    },
+    },*/
 
     locales: {
       "/zh/": {
